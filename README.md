@@ -10,6 +10,6 @@ Screenshot:
 
 Deploy links:
 
-1) 
+1) https://github.com/saiful987/Work_Day_Scheduler
 
-2)
+2) https://saiful987.github.io/Work_Day_Scheduler/
