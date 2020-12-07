@@ -1,0 +1,35 @@
+textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: coral;
+    border-left: 1px solid black;
+    padding: 10px;
+  
+  }
+  
+.thePresent {
+    background-color: crimson;
+    border-color: crimson;
+  }
+  
+.theFuture {
+    background-color: rgba(218, 224, 138, 0.623);
+    border-color: rgb(78, 16, 72);
+  }
+  
+button {
+    background-color: rgb(209, 0, 105);
+    border-radius: 0px 5px 5px 0px;
+    font-size: 3em;
+}
+
+.thePast {
+    background-color: rgb(89, 100, 13);
+    border-color:red;
+}
+
+header {
+    border-bottom-width: 10px;
+    color:purple;
+}
